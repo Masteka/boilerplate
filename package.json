@@ -1,0 +1,26 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "just a boilerplate",
+  "main": "null",
+  "scripts": {
+    "dev": "lite-server",
+    "start": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Masteka/boilerplate-.git"
+  },
+  "keywords": [
+    "boilerplate"
+  ],
+  "author": "masteka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Masteka/boilerplate-/issues"
+  },
+  "homepage": "https://github.com/Masteka/boilerplate-#readme",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
